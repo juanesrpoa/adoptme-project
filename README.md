@@ -1,4 +1,4 @@
-Set-Content README.md "# AdoptMe API
+# AdoptMe API
 
 Proyecto de adopcion de mascotas hecho con Node.js y MongoDB.
 
@@ -58,4 +58,4 @@ Mascotas:
 Adopciones:
 - GET /api/adoptions
 - GET /api/adoptions/:aid
-- POST /api/adoptions/:uid/:pid"
+- POST /api/adoptions/:uid/:pid
